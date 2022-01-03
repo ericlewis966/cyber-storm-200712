@@ -10,7 +10,6 @@
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=loganworld&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganworld&layout=compact&theme=merko&count_private=true" />
 <img height="150px" /> -->
-  <a href="https://app.daily.dev/CyberStorm2007"><img src="https://api.daily.dev/devcards/ffb041ad898a4ddc8a5791482eb9d31b.png?r=rp0" width="400" alt="Arita Masanori's Dev Card"/></a>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
