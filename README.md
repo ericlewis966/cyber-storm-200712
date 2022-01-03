@@ -10,7 +10,9 @@
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=loganworld&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganworld&layout=compact&theme=merko&count_private=true" />
 <img height="150px" /> -->
-
+<center>
+  <a href="https://app.daily.dev/CyberStorm2007"><img src="https://api.daily.dev/devcards/ffb041ad898a4ddc8a5791482eb9d31b.png?r=rp0" width="400" alt="Arita Masanori's Dev Card"/></a>
+ </center>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
@@ -28,7 +30,6 @@
 <h1 font-weight="bold"  align="center">I WANT BE A STORM</h2>
 
 <div>
- <a href="https://app.daily.dev/CyberStorm2007"><img src="https://api.daily.dev/devcards/ffb041ad898a4ddc8a5791482eb9d31b.png?r=rp0" width="400" alt="Arita Masanori's Dev Card"/></a>
 ### In the crypto world, I will rule over time, space, and even mass.
 ### I will traverse the crypto world and bring a storm to it.
 ### If you can dream it, you can do it.
