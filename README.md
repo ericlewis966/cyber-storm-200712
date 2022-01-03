@@ -28,7 +28,7 @@
 <h1 font-weight="bold"  align="center">I WANT BE A STORM</h2>
 
 <div>
- 
+ <a href="https://app.daily.dev/CyberStorm2007"><img src="https://api.daily.dev/devcards/ffb041ad898a4ddc8a5791482eb9d31b.png?r=rp0" width="400" alt="Arita Masanori's Dev Card"/></a>
 ### In the crypto world, I will rule over time, space, and even mass.
 ### I will traverse the crypto world and bring a storm to it.
 ### If you can dream it, you can do it.
