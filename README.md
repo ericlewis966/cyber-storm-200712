@@ -11,6 +11,7 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganworld&layout=compact&theme=merko&count_private=true" />
 <img height="150px" /> -->
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<a href="https://app.daily.dev/CyberStorm2007"><img src="https://api.daily.dev/devcards/ffb041ad898a4ddc8a5791482eb9d31b.png?r=cat" width="400" alt="Arita Masanori's Dev Card"/></a>
 <table>
   <tr>
     <td><img src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" width="200"></td>
