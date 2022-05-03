@@ -27,10 +27,12 @@
 <h1 font-weight="bold"  align="center">I WANT BE A STORM</h2>
 
 <div>
-### In the crypto world, I will rule over time, space, and even mass.
-### I will traverse the crypto world and bring a storm to it.
-### If you can dream it, you can do it.
-### Thanks
+  <h2>In the crypto world, I will rule over time, space, and even mass.</h2>
+<h2>I will traverse the crypto world and bring a storm to it.</h2>
+
+<h2>If you can dream it, you can do it.</h2>
+
+<h2>Thanks</h2>
 <br />
 
 </div>
