@@ -24,7 +24,7 @@
 </table>
 
 <br />
-<h1 font-weight="bold"  align="center">Hey Max</h2>
+<h1 font-weight="bold"  align="center">I WANT BE A STORM</h2>
 
 <div>
   <h2>In the crypto world, I will rule over time, space, and even mass.</h2>
