@@ -23,10 +23,6 @@
   </tr>
 </table>
 <br />
-<iframe id="inlineFrameExample"
-    title="Inline Frame Example"
-    src="https://skyline.github.com/cyber-storm-200712/2021">
-</iframe>
 <h1 font-weight="bold"  align="center">I WANT BE A STORM</h2>
 
 <div>
