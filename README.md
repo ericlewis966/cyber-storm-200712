@@ -62,8 +62,8 @@
   𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬
 </h2>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=cyber-storm-200712&show_icons=true&theme=radical&line_height=27" width="50%">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-storm-200712&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" width="50%">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=cyber-storm-200712&show_icons=true&theme=radical&line_height=27" width="45%">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-storm-200712&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" width="45%">
 </p>
 
 <p align = "center">
