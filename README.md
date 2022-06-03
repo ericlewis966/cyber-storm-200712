@@ -23,6 +23,9 @@
   </tr>
 </table>
 <br />
+<p align="center">
+  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 <h1 font-weight="bold"  align="center">I WANT BE A STORM</h2>
 
 <div>
