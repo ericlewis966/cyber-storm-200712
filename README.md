@@ -7,8 +7,8 @@
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=loganworld.loganworld" />
 <img align="right" src="https://img.shields.io/github/followers/loganworld?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=loganworld&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganworld&layout=compact&theme=merko&count_private=true" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=cyber-storm-200712&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-storm-200712&layout=compact&theme=merko&count_private=true" />
 <img height="150px" /> -->
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
@@ -23,7 +23,6 @@
   </tr>
 </table>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-storm-200712&theme=light" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyber-storm-200712&theme=light" />
 <br />
 <h1 font-weight="bold"  align="center">I WANT BE A STORM</h2>
 
