@@ -22,7 +22,6 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3521432-2944876.png" width="200"></td>
   </tr>
 </table>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-storm-200712&theme=light" />
 <br />
 <h1 font-weight="bold"  align="center">I WANT BE A STORM</h2>
 
