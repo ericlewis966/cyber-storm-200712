@@ -10,7 +10,7 @@
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=cyber-storm-200712&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-storm-200712&layout=compact&theme=merko&count_private=true" />
 <img height="150px" /> -->
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<h2 font-weight="bold" align="center">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
     <td><img src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" width="200"></td>
@@ -39,11 +39,27 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 <br />
+
 <p align="center">
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+<h2 align="center">𝐑𝐞𝐚𝐜𝐡 𝐨𝐮𝐭 𝐨𝐧 𝐦𝐞<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+
+<p align="center">
+<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+<a href="mailto: leonsummer2007@gmail.com">
+ <img src="https://img.shields.io/badge/-cyberstorm-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonsummer2007@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/arita-masanori-11a335233/">
+ <img src="https://img.shields.io/badge/-cyberstorm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arita-masanori-11a335233/"/>
+</a>
+ <a href="http://3.81.235.215/">
+ <img src="https://img.shields.io/badge/-cyberstorm-blue?style=flat-square&logo=web&logoColor=white&link=http://3.81.235.215/"/>
+</a>
+</p>
+
 <h2 align="center">
-  GitHub Status
+  𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬
 </h2>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=cyber-storm-200712&show_icons=true&theme=radical&line_height=27" height="250">
@@ -60,8 +76,8 @@
 <h1 font-weight="bold"  align="center">𝐈 𝐖𝐀𝐍𝐓 𝐁𝐄 𝐀 𝐒𝐓𝐎𝐑𝐌</h2>
 
 <div>
-  <h2>𝐈𝐧 𝐭𝐡𝐞 𝐜𝐫𝐲𝐩𝐭𝐨 𝐰𝐨𝐫𝐥𝐝, 𝐈 𝐰𝐢𝐥𝐥 𝐫𝐮𝐥𝐞 𝐨𝐯𝐞𝐫 𝐭𝐢𝐦𝐞, 𝐬𝐩𝐚𝐜𝐞, 𝐚𝐧𝐝 𝐞𝐯𝐞𝐧 𝐦𝐚𝐬𝐬.</h2>
-<h2>𝐈𝐟 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐝𝐫𝐞𝐚𝐦 𝐢𝐭, 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐝𝐨 𝐢𝐭.</h2> 
+  <h2 align="center">𝐈𝐧 𝐭𝐡𝐞 𝐜𝐫𝐲𝐩𝐭𝐨 𝐰𝐨𝐫𝐥𝐝, 𝐈 𝐰𝐢𝐥𝐥 𝐫𝐮𝐥𝐞 𝐨𝐯𝐞𝐫 𝐭𝐢𝐦𝐞, 𝐬𝐩𝐚𝐜𝐞, 𝐚𝐧𝐝 𝐞𝐯𝐞𝐧 𝐦𝐚𝐬𝐬.</h2>
+<h2 align="center">𝐈𝐟 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐝𝐫𝐞𝐚𝐦 𝐢𝐭, 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐝𝐨 𝐢𝐭.</h2> 
 <br />
 
 </div>
