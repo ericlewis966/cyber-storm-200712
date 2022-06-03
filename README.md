@@ -30,5 +30,6 @@
 <h2>I will traverse the digital world and bring a storm to it.</h2>
 <h2>If you can dream it, you can do it.</h2>
 <br />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-storm-200712&theme=dark" />
 
 </div>
