@@ -62,7 +62,7 @@
 <div>
   <h2>In the crypto world, I will rule over time, space, and even mass.</h2>
 <h2>I will traverse the digital world and bring a storm to it.</h2>
-<h2>If you can dream it, you can do it.</h2>
+<h2>If you can dream it, you can do it.</h2> 
 <br />
 
 </div>
