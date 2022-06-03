@@ -22,7 +22,6 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3521432-2944876.png" width="200"></td>
   </tr>
 </table>
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
