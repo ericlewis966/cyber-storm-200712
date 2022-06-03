@@ -57,12 +57,11 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=cyber-storm-200712&theme=redical">
 </p> 
-<h1 font-weight="bold"  align="center">I WANT BE A STORM</h2>
+<h1 font-weight="bold"  align="center">𝐈 𝐖𝐀𝐍𝐓 𝐁𝐄 𝐀 𝐒𝐓𝐎𝐑𝐌</h2>
 
 <div>
-  <h2>In the crypto world, I will rule over time, space, and even mass.</h2>
-<h2>I will traverse the digital world and bring a storm to it.</h2>
-<h2>If you can dream it, you can do it.</h2> 
+  <h2>𝐈𝐧 𝐭𝐡𝐞 𝐜𝐫𝐲𝐩𝐭𝐨 𝐰𝐨𝐫𝐥𝐝, 𝐈 𝐰𝐢𝐥𝐥 𝐫𝐮𝐥𝐞 𝐨𝐯𝐞𝐫 𝐭𝐢𝐦𝐞, 𝐬𝐩𝐚𝐜𝐞, 𝐚𝐧𝐝 𝐞𝐯𝐞𝐧 𝐦𝐚𝐬𝐬.</h2>
+<h2>𝐈𝐟 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐝𝐫𝐞𝐚𝐦 𝐢𝐭, 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐝𝐨 𝐢𝐭.</h2> 
 <br />
 
 </div>
