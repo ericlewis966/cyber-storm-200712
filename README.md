@@ -22,6 +22,8 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3521432-2944876.png" width="200"></td>
   </tr>
 </table>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-storm-200712&theme=light" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyber-storm-200712&theme=light" />
 <br />
 <h1 font-weight="bold"  align="center">I WANT BE A STORM</h2>
 
@@ -30,6 +32,5 @@
 <h2>I will traverse the digital world and bring a storm to it.</h2>
 <h2>If you can dream it, you can do it.</h2>
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-storm-200712&theme=dark" />
 
 </div>
