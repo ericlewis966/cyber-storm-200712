@@ -13,7 +13,9 @@
 <h2 font-weight="bold" align="center">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
-    <td><img src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" width="200"></td>
+    <td>
+      <img src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" width="200">
+    </td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/unity-2749374-2284764.png" width="200"></td>
@@ -26,14 +28,34 @@
 <h2 align="center">𝐑𝐞𝐚𝐜𝐡 𝐨𝐮𝐭 𝐨𝐧 𝐦𝐞<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<table>
-  <tr>
-    <td><img src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/unity-2749374-2284764.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
-  </tr>
+<table align="center">
+    <tr>
+        <td>
+            <a href="mailto:leonsummer2007@gmail.com" target="_blank">
+                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/gmail.png?raw=true" width="100">
+            </a>
+        </td>
+        <td>
+            <a href="https://www.linkedin.com/in/arita-masanori-11a335233" target="_blank">
+                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/linkedin.png?raw=true" width="100">
+            </a>
+        </td>
+        <td>
+            <a href="https://t.me/mrcoin1220" target="_blank">
+                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/telegram.png?raw=true" width="100">
+            </a>
+        </td>
+        <td>
+            <a href="https://join.skype.com/invite/CjrhmcVj2plP" target="_blank">
+                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/skype.png?raw=true" width="100">
+            </a>
+        </td>
+        <td>
+            <a href="http://3.81.235.215/" target="_blank">
+                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/website.png?raw=true" width="100">
+            </a>
+        </td>
+    </tr>
 </table>
 </p>
 
