@@ -50,11 +50,11 @@
                 <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/skype.png?raw=true" width="100">
             </a>
         </td>
-        <td>
-            <a href="http://3.81.235.215/" target="_blank">
-                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/website.png?raw=true" width="100">
-            </a>
-        </td>
+[//]: <>        <td>
+[//]: <>            <a href="http://3.81.235.215/" target="_blank">
+[//]: <>                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/website.png?raw=true" width="100">
+[//]: <>            </a>
+[//]: <>        </td>
     </tr>
 </table>
 </p>
