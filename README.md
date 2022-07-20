@@ -25,43 +25,16 @@
   </tr>
 </table>
 <br />
-<h2 align="center">𝐑𝐞𝐚𝐜𝐡 𝐨𝐮𝐭 𝐨𝐧 𝐦𝐞<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-<p align="center">
-<table align="center">
-    <tr>
-        <td>
-            <a href="https://t.me/mrcoin1220" target="_blank">
-                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/telegram.png?raw=true" width="100">
-            </a>
-        </td>
-        <td>
-            <a href="https://join.skype.com/invite/CjrhmcVj2plP" target="_blank">
-                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/skype.png?raw=true" width="100">
-            </a>
-        </td>
-    </tr>
-</table>
 </p>
 
 <h2 align="center">
   𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬
 </h2>
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=cyber-storm-200712&show_icons=true&theme=radical&line_height=27" >
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-storm-200712&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" >
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-storm-200712&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"  />
-</p> 
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=cyber-storm-200712&theme=redical">
 </p> 
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 <h1 font-weight="bold"  align="center">𝐈 𝐖𝐀𝐍𝐓 𝐁𝐄 𝐀 𝐒𝐓𝐎𝐑𝐌</h2>
 
 <div>
