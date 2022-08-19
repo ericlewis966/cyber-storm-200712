@@ -27,10 +27,6 @@
 <br />
 
 </p>
-
-<h2 align="center">
-  𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬
-</h2>
 <h1 font-weight="bold"  align="center">𝐈 𝐖𝐀𝐍𝐓 𝐁𝐄 𝐀 𝐒𝐓𝐎𝐑𝐌</h2>
 
 <div>
