@@ -27,7 +27,7 @@
 <br />
 
 </p>
-<h1 font-weight="bold"  align="center">𝐈 𝐖𝐀𝐍𝐓 𝐁𝐄 𝐀 𝐒𝐓𝐎𝐑𝐌</h2>
+<h1 font-weight="bold"  align="center">𝐈 𝐖𝐀𝐍𝐓 𝐓𝐎 𝐁𝐄 𝐀 𝐒𝐓𝐎𝐑𝐌</h2>
 
 <div>
   <h2 align="center">𝐈𝐧 𝐭𝐡𝐞 𝐜𝐫𝐲𝐩𝐭𝐨 𝐰𝐨𝐫𝐥𝐝, 𝐈 𝐰𝐢𝐥𝐥 𝐫𝐮𝐥𝐞 𝐨𝐯𝐞𝐫 𝐭𝐢𝐦𝐞, 𝐬𝐩𝐚𝐜𝐞, 𝐚𝐧𝐝 𝐞𝐯𝐞𝐧 𝐦𝐚𝐬𝐬.</h2>
