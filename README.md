@@ -1,9 +1,4 @@
 <p align="center"><img align="center" src="https://www.groene.nl/uploads/image/file/000/023/086/medium_perfect-storm-1024x576.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
-<h1 align="center">
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  <a href="https://join.skype.com/invite/WMEJuPQ3viqA"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-</h1>
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=loganworld.loganworld" />
 <img align="right" src="https://img.shields.io/github/followers/loganworld?label=Follow&style=social" />
 <h1 align="center"></h1>
